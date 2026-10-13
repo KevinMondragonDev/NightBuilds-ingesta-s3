@@ -2,11 +2,11 @@
 
 **Repositorio:** `sideproject-ingesta-s3` · **Tipo:** ETL en la nube (local con Floci) · **Tiempo:** 8–10 h · **Después de:** los retos 1 a 20
 
-> Reglas, README y lista de cierre: [`06_ingenieria_de_datos/SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
-Los retos 15, 16 y 19 te pidieron pipelines sobre S3 y el 20 te dio requisitos ambiguos. Aquí lo conviertes en un proyecto real y **ejecutable**: en lugar de una cuenta de AWS usas Floci, un emulador local (cómo arrancarlo: `06_ingenieria_de_datos/07_nube_con_floci/02_floci_y_s3.py`).
+Los retos 15, 16 y 19 te pidieron pipelines sobre S3 y el 20 te dio requisitos ambiguos. Aquí lo conviertes en un proyecto real y **ejecutable**: en lugar de una cuenta de AWS usas Floci, un emulador local (cómo arrancarlo: `05_ingenieria_de_datos/07_nube_con_floci/02_almacenamiento/02_floci_y_s3.py`).
 
 El requisito de tu tech lead sigue siendo el del reto 20: *«procesa los archivos de clientes que llegan a diario a S3; hay problemas de calidad; el output debe ser confiable; debe correr en local y en producción»*.
 
@@ -51,5 +51,5 @@ El requisito de tu tech lead sigue siendo el del reto 20: *«procesa los archivo
 
 ## Súbelo de nivel
 
-- Que S3 avise de cada archivo nuevo por una cola en lugar de listar el bucket (`07_nube_con_floci/03`).
+- Que S3 avise de cada archivo nuevo por una cola en lugar de listar el bucket (`07_nube_con_floci/03_eventos_y_computo/03`).
 - La transformación en PySpark (retos 17 y 18).

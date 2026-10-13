@@ -2,7 +2,7 @@
 
 > Pipeline que procesa los archivos de clientes que llegan a diario a S3, incremental e idempotente, en AWS local con Floci.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL en la nube (local con Floci) · **Módulo del programa:** 02 · Retos prácticos
+**Estado:** 🚧 sin empezar · **Tipo:** ETL en la nube (local con Floci) · **Módulo del programa:** 07 · Retos de integración
 
 ## La problemática
 
