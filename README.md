@@ -2,7 +2,18 @@
 
 > Pipeline que procesa los archivos de clientes que llegan a diario a S3, incremental e idempotente, en AWS local con Floci.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL en la nube (local con Floci) · **Módulo del programa:** 07 · Retos de integración
+**Estado:** 🚧 sin empezar · **Categoría:** NightBuilds · **Tipo:** ETL en la nube (local con Floci) · **Módulo del programa:** 07 · Retos de integración
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| `DevSandbox-` | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| **`NightBuilds-`** ← este | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **NightBuilds**: el reto está estimado en 8–10 h.
 
 ## La problemática
 
