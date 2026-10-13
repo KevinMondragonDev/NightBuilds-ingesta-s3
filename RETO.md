@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Ingesta a S3 lista para producción
+# 🚀 NightBuild — Ingesta a S3 lista para producción
 
-**Repositorio:** `sideproject-ingesta-s3` · **Tipo:** ETL en la nube (local con Floci) · **Tiempo:** 8–10 h · **Después de:** los retos 1 a 20
+**Repositorio:** `NightBuilds-ingesta-s3` · **Tipo:** ETL en la nube (local con Floci) · **Tiempo:** 8–10 h · **Después de:** los retos 1 a 20
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 

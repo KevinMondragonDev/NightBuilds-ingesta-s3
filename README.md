@@ -1,4 +1,4 @@
-# sideproject-ingesta-s3
+# NightBuilds-ingesta-s3
 
 > Pipeline que procesa los archivos de clientes que llegan a diario a S3, incremental e idempotente, en AWS local con Floci.
 
@@ -20,7 +20,7 @@ Los archivos de `datos/` son **sintéticos**, generados para practicar: no corre
 
 El enunciado completo, con sus hitos y cómo comprobar cada uno, está en [`RETO.md`](RETO.md). No trae solución: el diseño es tuyo.
 
-- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un sideproject y qué debe tener este README al terminar.
+- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un NightBuild y qué debe tener este README al terminar.
 - [`docs/RUBRICA.md`](docs/RUBRICA.md): con qué criterios se evalúa.
 
 ## Cómo se ejecuta
